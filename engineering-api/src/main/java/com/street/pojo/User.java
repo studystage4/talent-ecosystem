@@ -16,8 +16,6 @@ import lombok.experimental.Accessors;
  * @date: 2021/7/20 22:57
  * @desc:
  */
-//123
-    ///1234444444
 @Data
 @TableName("user")
 @ApiModel(value = "用户实体类")
