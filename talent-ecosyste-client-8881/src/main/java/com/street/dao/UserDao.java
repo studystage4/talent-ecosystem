@@ -7,4 +7,5 @@ package com.street.dao;
  * @desc:
  */
 public class UserDao {
+
 }
