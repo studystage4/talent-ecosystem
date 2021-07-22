@@ -11,7 +11,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class SchoolProvider8884 {
-    //fffff
     public static void main(String[] args) {
         SpringApplication.run(SchoolProvider8884.class,args);
     }
