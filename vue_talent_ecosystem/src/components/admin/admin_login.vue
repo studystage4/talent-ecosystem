@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: "login"
+  name: "admin_login"
 }
 </script>
 
