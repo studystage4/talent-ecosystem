@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication
 public class Admin8883 {
+    // 12345566
     public static void main(String[] args) {
         SpringApplication.run(Admin8883.class,args);
     }
